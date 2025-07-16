@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-openai
+chromadb
+unstructured[pdf]
+pdfminer.six
+tiktoken
